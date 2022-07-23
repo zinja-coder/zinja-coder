@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 
 You can find me on -
 
-<a href="https://www.linkedin.com/in/jafar-pathan-7109821aa/" target="blank"><img align="center" src="https://simpleicons.org/icons/linkedin.svg" height="100"/></a>
+<a href="https://www.linkedin.com/in/jafar-pathan-7109821aa/" target="blank"><img align="center" src="https://simpleicons.org/icons/linkedin.svg" height="50"/></a>
 <a href="https://hackerrank.com/zinjacoder007/" target="blank"><img align="center" src="https://simpleicons.org/icons/hackerrank.svg" height="50"/></a>
