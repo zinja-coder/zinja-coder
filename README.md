@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 You can find me on -
 
 [![Linkedin badge](https://img.shields.io/badge/-LindkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jafar-pathan-7109821aa/) 
-<a href="https://hackerrank.com/zinjacoder007/" target="blank"><img align="center" src="https://simpleicons.org/icons/hackerrank.svg" /></a>
+<a href="https://hackerrank.com/zinjacoder007/" target="blank"><img align="center" src="https://simpleicons.org/icons/hackerrank.svg" height="50"/></a>
