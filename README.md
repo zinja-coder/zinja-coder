@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 
 # Hi there I am Jafar Pathan AKA Z!nj@C0d3r
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=jafar-pathan)
 
 <a href="https://github.com/jafar-pathan/" target="blank"><img align="center" src="https://hackernoon.com/_next/image?url=https%3A%2F%2Fcdn.hackernoon.com%2Fimages%2FqzwLxrUAy2MQdbMWWHtpefkRrGx2-00037t6.png&w=1200&q=75" height="500" /></a>
+
+# I am all over the webs
+[![Linkedin badge](https://img.shields.io/badge/-LindkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jafar-pathan-7109821aa/)
