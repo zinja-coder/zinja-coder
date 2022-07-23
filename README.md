@@ -26,14 +26,16 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jafar-pathan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 # About me
-Pursuing Bachelor's in Computer Engineering
-Making career in Cyber Security
-Forever Learner
-CTF Player
-I'm looking to collaborate on CyberSecurity projects
+Pursuing Bachelor's in Computer Engineering\n
+Making career in Cyber Security\n
+Forever Learner\n
+CTF Player\n
+I'm looking to collaborate on CyberSecurity projects\n
 
 # You can find me on 
 
 <a href="https://www.linkedin.com/in/jafar-pathan-7109821aa/" target="blank"><img align="center" src="https://simpleicons.org/icons/linkedin.svg" height="50"/></a>
 <a href="https://hackerrank.com/zinjacoder007/" target="_blank"><img align="center" src="https://simpleicons.org/icons/hackerrank.svg" height="50"/></a>
 <a href="https://github.com/jafar-pathan" target="_blank"><img align="center" src="https://simpleicons.org/icons/github.svg" height="50"/></a>
+<a href="https://app.hackthebox.com/profile/1123401" target="_blank"><img align="center" src="https://simpleicons.org/icons/hackthebox.svg" height="50"/></a>
+
