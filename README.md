@@ -21,5 +21,6 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/jafar-pathan/" target="blank"><img align="center" src="https://hackernoon.com/_next/image?url=https%3A%2F%2Fcdn.hackernoon.com%2Fimages%2FqzwLxrUAy2MQdbMWWHtpefkRrGx2-00037t6.png&w=1200&q=75" height="500" /></a>
 
-You can find me on
+You can find me on -
+
 [![Linkedin badge](https://img.shields.io/badge/-LindkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jafar-pathan-7109821aa/)
