@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi there I am Jafar Pathan AKA Z!nj@C0d3r
+
+<a href="https://github.com/jafar-pathan/" target="blank"><img align="center" src="https://hackernoon.com/_next/image?url=https%3A%2F%2Fcdn.hackernoon.com%2Fimages%2FqzwLxrUAy2MQdbMWWHtpefkRrGx2-00037t6.png&w=1200&q=75" height="100" /></a>
