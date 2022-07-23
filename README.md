@@ -38,4 +38,7 @@ I'm looking to collaborate on CyberSecurity projects\n
 <a href="https://hackerrank.com/zinjacoder007/" target="_blank"><img align="center" src="https://simpleicons.org/icons/hackerrank.svg" height="50"/></a>
 <a href="https://github.com/jafar-pathan" target="_blank"><img align="center" src="https://simpleicons.org/icons/github.svg" height="50"/></a>
 <a href="https://app.hackthebox.com/profile/1123401" target="_blank"><img align="center" src="https://simpleicons.org/icons/hackthebox.svg" height="50"/></a>
+<a href="https://tryhackme.com/p/Z1njaC0d3r" target="_blank"><img align="center" src="https://simpleicons.org/icons/tryhackme.svg" height="50"/></a>
+
+
 
