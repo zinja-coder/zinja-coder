@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there I am Jafar Pathan AKA Z!nj@C0d3r
+# Hi there You are at Jafar Pathan's AKA Z!nj@C0d3r
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=I+don't+think+out+of+the+box+..)](https://git.io/typing-svg)[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=..+I+h4ck+the+box+x\))](https://git.io/typing-svg)
 
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 # About me
 
 
-# You can find me on -
+# You can find me on 
 
 <a href="https://www.linkedin.com/in/jafar-pathan-7109821aa/" target="blank"><img align="center" src="https://simpleicons.org/icons/linkedin.svg" height="50"/></a>
 <a href="https://hackerrank.com/zinjacoder007/" target="_blank"><img align="center" src="https://simpleicons.org/icons/hackerrank.svg" height="50"/></a>
