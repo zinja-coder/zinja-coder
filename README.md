@@ -26,7 +26,11 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jafar-pathan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 # About me
-
+Pursuing Bachelor's in Computer Engineering
+Making career in Cyber Security
+Forever Learner
+CTF Player
+I'm looking to collaborate on CyberSecurity projects
 
 # You can find me on 
 
