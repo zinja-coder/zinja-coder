@@ -25,8 +25,10 @@ Here are some ideas to get you started:
 ![jafar-pathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jafar-pathan&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jafar-pathan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+# About me
 
-You can find me on -
+
+# You can find me on -
 
 <a href="https://www.linkedin.com/in/jafar-pathan-7109821aa/" target="blank"><img align="center" src="https://simpleicons.org/icons/linkedin.svg" height="50"/></a>
 <a href="https://hackerrank.com/zinjacoder007/" target="_blank"><img align="center" src="https://simpleicons.org/icons/hackerrank.svg" height="50"/></a>
