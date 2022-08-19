@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Hi there You are at Jafar Pathan's AKA Z!nj@C0d3r
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Why+think+out+of+the+box+..)](https://git.io/typing-svg)[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=..+W3#n+Y0U+c@N+h4ck+the+box+..x\))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Why+think+out+of+the+box+..)](https://git.io/typing-svg)[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=..+W3hN+Y0U+c@N+h4ck+the+box+..x\))](https://git.io/typing-svg)
 
 ![](https://komarev.com/ghpvc/?username=jafar-pathan)
 
