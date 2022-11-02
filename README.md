@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 
 # Hi there You are at Jafar Pathan's AKA ZinjaC0d3r
 
-![tryhackme stats](https://raw.githubusercontent.com/zinja-coder/zinja-coder/master/assets/thm_propic.png)
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Why+think+out+of+the+box+..)](https://git.io/typing-svg)[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=..+W3hN+Y0U+c@N+h4ck+the+box+..x\))](https://git.io/typing-svg)
 
 ---
 # Personal Scores
-![Try hack me]("https://tryhackme-badges.s3.amazonaws.com/Z1njaC0d3r.png")
-![Hack The Box]("http://www.hackthebox.eu/badge/image/1123401")
+[![Try hack me](https://tryhackme-badges.s3.amazonaws.com/Z1njaC0d3r.png)]
+[![Hack The Box](http://www.hackthebox.eu/badge/image/1123401)]
 ![](https://komarev.com/ghpvc/?username=zinja-coder)
 
 <a href="https://github.com/jafar-pathan/" target="blank"><img align="center" src="https://hackernoon.com/_next/image?url=https%3A%2F%2Fcdn.hackernoon.com%2Fimages%2FqzwLxrUAy2MQdbMWWHtpefkRrGx2-00037t6.png&w=1200&q=75" height="400" /></a>
