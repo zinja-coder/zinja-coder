@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Hi there You are at Jafar Pathan's AKA ZinjaC0d3r
 
-![tryhackme stats](https://raw.githubusercontent.com/<SET_USERNAME_HERE>/<SET_USERNAME_HERE>/master/assets/thm_propic.png)
+![tryhackme stats](https://raw.githubusercontent.com/zinja-coder/zinja-coder/master/assets/thm_propic.png)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Why+think+out+of+the+box+..)](https://git.io/typing-svg)[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=..+W3hN+Y0U+c@N+h4ck+the+box+..x\))](https://git.io/typing-svg)
 
