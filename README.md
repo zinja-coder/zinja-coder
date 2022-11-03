@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![me]("Zinja Coder.gif")
 
 ---
-
+<img src="https://raw.githubusercontent.com/zinja-coder/zinja-coder/main/Zinja%20Coder.gif" widht="400px;">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00ff00&lines=Who+is+Jafar+Pathan+❤️+H?;A+Computer+Engineering+Student;Proud+to+be+Indian+🇮🇳;A+CyberSecurity+Enthusiast;Cyber+Security+Researcher;CTF+Player;Exploit+Artist;Ethical+Hacking+Related+Content+Creator;Penetrations+Tester;)](https://git.io/typing-svg)
 
 
