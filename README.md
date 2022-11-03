@@ -20,6 +20,20 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00ff00&lines=Who+is+Jafar+Pathan+❤️+H?;A+Computer+Engineering+Student;Proud+to+be+Indian+🇮🇳;A+CyberSecurity+Enthusiast;Cyber+Security+Researcher;CTF+Player;Exploit+Artist;Ethical+Hacking+Related+Content+Creator;Penetrations+Tester;)](https://git.io/typing-svg)
 
+---
+<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 70px>
+
+# Hi, I'm [Jafar Pathan]("https://www.jafarpathan.com/") - ZinjaCoder
+```
+- 🎓 I am a Student pursuing Bachelor's Degree in Computer Engineering
+- 🔭 I am making career in field of cyber security with experties in red teaming
+- ✍️ CEH V11 Practical aspirant
+- 📕 By hobby I love to research and make content on ethical hacking and I also have a YouTube Channel about ethical hacking 
+- 🇮🇳 From India
+- 👨‍💻 I’m availabe for collaboration on Penteration testing, Tools Development, CTFs
+- 🥷 Active CTF Player, Exploit Artist, Tech Savvy, Linux Worm
+- 🚩 Dream 'Become A Successful Red Team Operator'
+```
 
 ---
 # Personal Scores
