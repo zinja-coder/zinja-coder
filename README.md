@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **jafar-pathan/jafar-pathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,16 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![me](/img/zin.gif)
+![me]("Zinja Coder.gif")
 
 ---
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00ff00&lines=Who+is+Jafar+Pathan+❤️+H?;A+Computer+Engineering+Student;Proud+to+be+Indian+🇮🇳;A+CyberSecurity+Enthusiast;Cyber+Security+Researcher;CTF+Player;Exploit+Artist;Ethical+Hacking+Related+Content+Creator;Penetrations+Tester;)](https://git.io/typing-svg)
-# Hi there You are at Jafar Pathan's AKA ZinjaC0d3r
 
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Why+think+out+of+the+box+..)](https://git.io/typing-svg)[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=..+W3hN+Y0U+c@N+h4ck+the+box+..x\))](https://git.io/typing-svg)
 
 ---
 # Personal Scores
