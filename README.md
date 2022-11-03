@@ -45,6 +45,7 @@ Here are some ideas to get you started:
 
 ---
 <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="150px">
+
 ## Connect With Me
 <a href="https://www.linkedin.com/in/jafar-pathan/" target="blank"><img align="center" src="https://simpleicons.org/icons/linkedin.svg" height="50"/></a>
 <a href="https://github.com/zinja-coder" target="_blank"><img align="center" src="https://simpleicons.org/icons/github.svg" height="50"/></a>
