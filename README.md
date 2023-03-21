@@ -40,9 +40,6 @@ Here are some ideas to get you started:
 ![Try hack me](https://tryhackme-badges.s3.amazonaws.com/Z1njaC0d3r.png)
 ![Hack The Box](http://www.hackthebox.eu/badge/image/1123401)
 
-![jafar-pathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=zinja-coder&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zinja-coder&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="150px">
 
