@@ -25,14 +25,15 @@ Here are some ideas to get you started:
 
 # Hi, I'm [Jafar Pathan]("https://www.jafarpathan.com/") - ZinjaCoder
 ```
-- 🎓 I am a Student pursuing Bachelor's Degree in Computer Engineering
-- 🔭 I am making career in field of cyber security with experties in red teaming
-- ✍️ CEH V11 Practical aspirant
-- 📕 By hobby I love to research and make content on ethical hacking and I also have a YouTube Channel about ethical hacking 
-- 🇮🇳 From India
-- 👨‍💻 I’m availabe for collaboration on Penteration testing, Tools Development, CTFs
-- 🥷 Active CTF Player, Exploit Artist, Tech Savvy, Linux Worm
-- 🚩 Dream 'Become A Successful Red Team Operator'
+- 🎓 Working Professional in field of Cyber Security, and helping organizations of diverse domains improves their cyber security posture. Completed my bachelor's in Computer Engineering, Achieved CEHv12 Practical certification.
+- 🥷 Having expertise in VAPT of wide range of applications domains 
+including Network VAPT, Mobile Applications, APIs, Thick Thin Clients, 
+Web Applications, and skilled in Malware 🐞 Analysis and  Reverse 
+Engineering.
+-  🔭By hobby I love to research, study and contribute in the field of cyber security.
+- 🇮🇳 Made in India.
+- 👨‍💻 I’m available for collaboration on Tools Development and CTFs.
+- 🎯 Stuck in Loop of - 'Hack->Code->Secure->Repeat'
 ```
 
 ---
@@ -45,6 +46,9 @@ Here are some ideas to get you started:
 
 ## Connect With Me
 <a href="https://www.linkedin.com/in/jafar-pathan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/zinja-coder/zinja-coder/main/linkedin.svg" height="50"/></a>
+<a href="https://zinjacoder.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/zinja-coder/zinja-coder/main/medium.svg" height="50"/></a>
+<a href="https://discord.com/users/zinjacoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/zinja-coder/zinja-coder/main/discord.svg" height="50"/></a>
+<a href="https://twitter.com/zinja_coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/zinja-coder/zinja-coder/main/discord.svg" height="50"/></a>
 <a href="https://app.hackthebox.com/profile/1123401" target="_blank"><img align="center" src="https://raw.githubusercontent.com/zinja-coder/zinja-coder/main/hackthebox.svg" height="50"/></a>
 <a href="https://tryhackme.com/p/Z1njaC0d3r" target="_blank"><img align="center" src="https://raw.githubusercontent.com/zinja-coder/zinja-coder/main/tryhackme.svg" height="50"/></a>
 <a href="https://www.youtube.com/c/zinjacoder"><img align="center" src="https://raw.githubusercontent.com/zinja-coder/zinja-coder/main/youtube.svg" height="50"/></a>
