@@ -51,6 +51,6 @@ Engineering.
 <a href="https://twitter.com/zinja_coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/zinja-coder/zinja-coder/main/twitter-svgrepo-com.svg" height="50"/></a>
 <a href="https://app.hackthebox.com/profile/1123401" target="_blank"><img align="center" src="https://raw.githubusercontent.com/zinja-coder/zinja-coder/main/hackthebox.svg" height="50"/></a>
 <a href="https://tryhackme.com/p/Z1njaC0d3r" target="_blank"><img align="center" src="https://raw.githubusercontent.com/zinja-coder/zinja-coder/main/tryhackme.svg" height="50"/></a>
-<a href="https://www.youtube.com/c/zinjacoder"><img align="center" src="https://raw.githubusercontent.com/zinja-coder/zinja-coder/main/youtube.svg" height="50"/></a>
+<!--<a href="https://www.youtube.com/c/zinjacoder"><img align="center" src="https://raw.githubusercontent.com/zinja-coder/zinja-coder/main/youtube.svg" height="50"/></a>-->
 
 
