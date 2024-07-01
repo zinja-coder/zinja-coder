@@ -46,7 +46,7 @@ Engineering.
 
 ## Connect With Me
 <a href="https://www.linkedin.com/in/jafar-pathan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/zinja-coder/zinja-coder/main/linkedin.svg" height="50"/></a>
-<a href="https://medium.com/@zinjacoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/zinja-coder/zinja-coder/main/medium-icon-svgrepo-com.svg" height="50"/></a>
+<a href="https://medium.com/@jafarpathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/zinja-coder/zinja-coder/main/medium-icon-svgrepo-com.svg" height="50"/></a>
 <a href="https://discord.com/users/zinjacoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/zinja-coder/zinja-coder/main/discord-v2-svgrepo-com.svg" height="50"/></a>
 <a href="https://twitter.com/zinja_coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/zinja-coder/zinja-coder/main/twitter-svgrepo-com.svg" height="50"/></a>
 <a href="https://app.hackthebox.com/profile/1123401" target="_blank"><img align="center" src="https://raw.githubusercontent.com/zinja-coder/zinja-coder/main/hackthebox.svg" height="50"/></a>
