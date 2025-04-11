@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00ff00&lines=Who+is+Jafar+Pathan?;A+Computer+Engineering+Student;Proud+to+be+Indian+🇮🇳;A+CyberSecurity+Enthusiast;Cyber+Security+Researcher;CTF+Player;Exploit+Artist;Ethical+Hacking+Related+Content+Creator;Penetrations+Tester;)](https://git.io/typing-svg)
 
+![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)
+
 ---
 <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 70px>
 
@@ -37,7 +39,24 @@ Engineering.
 ```
 
 ---
-# Personal Scores
+
+## 🔥 My GitHub Stats  
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zinja-coder&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=zinja-coder&theme=tokyonight" />
+</div>
+
+## 🏆 GitHub Trophies  
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=zinja-coder&theme=dracula&margin-w=15&row=1&column=7"/>
+</div>
+
+## 📊 Most Used Languages  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zinja-coder&layout=compact&theme=tokyonight" />
+</div>
+
+# Tryhackme And Hack The Box Stats
 ![Try hack me](https://tryhackme-badges.s3.amazonaws.com/Z1njaC0d3r.png)
 ![Hack The Box](http://www.hackthebox.eu/badge/image/1123401)
 
