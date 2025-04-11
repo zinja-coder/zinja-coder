@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 including Network VAPT, Mobile Applications, APIs, Thick Thin Clients, 
 Web Applications, and skilled in Malware 🐞 Analysis and  Reverse 
 Engineering.
--  🔭By hobby I love to research, study and contribute in the field of cyber security.
+- 🔭 By hobby I love to research, study and contribute in the field of cyber security.
 - 🏍️ Motorcycle enthusiast who rides his motorcycle for peace of mind.
 - 🇮🇳 Made in India.
 - 🤝 I’m available for collaboration on Tools Development and CTFs.
@@ -55,18 +55,23 @@ My Message -> Kindly donate to the needy, help others, keep smiling, spread love
   <img src="https://github-profile-trophy.vercel.app/?username=zinja-coder&theme=dracula&margin-w=15&row=1&column=7"/>
 </div>
 
-## Try Hack Me Score
+## 🎯 Try Hack Me Score
 <img src="https://tryhackme-badges.s3.amazonaws.com/ZinjaCoder.png" alt="Your Image Badge"/>
 
-## Hack The Box Score
+## 🎯 Hack The Box Score
 ![Hack The Box](http://www.hackthebox.eu/badge/image/1123401)
 
-## PortSwigger Score
-[![PortSwigger Academy](https://img.shields.io/badge/PortSwigger-Security%20Labs-orange?style=flat&logo=burp-suite&logoColor=white)](https://portswigger.net/web-security/profile/JafarPathan)
+## 🎯 PortSwigger Score
+
+![image](https://github.com/user-attachments/assets/2a307d03-2657-4d5a-89e0-36703283c84c)
 
 ---
 
-My Blogs
+## My Projects
+
+---
+
+## My Blogs
 <!-- BLOG-POST-LIST:START -->
 - [Painless Guide to Building the Reverse Engineering and Malware Analysis Lab](https://medium.com/@jafarpathan/painless-guide-to-building-the-ultimate-reverse-engineering-and-malware-analysis-lab-d1c8f7b20594?source=rss-d2820fbdb0f------2)
 - [The DVAC — Damn Vulnerable Android Components — The sieve APK reborn — Writeup](https://medium.com/@jafarpathan/the-dvac-damn-vulnerable-android-components-the-sieve-apk-reborn-writeup-e096600ec27d?source=rss-d2820fbdb0f------2)
