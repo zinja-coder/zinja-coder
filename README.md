@@ -57,7 +57,8 @@ Engineering.
 </div>
 
 # Tryhackme And Hack The Box Stats
-![Try hack me](https://tryhackme-badges.s3.amazonaws.com/Z1njaC0d3r.png)
+<img src="https://tryhackme-badges.s3.amazonaws.com/ZinjaCoder.png" alt="Your Image Badge"/>
+
 ![Hack The Box](http://www.hackthebox.eu/badge/image/1123401)
 
 ---
@@ -73,13 +74,10 @@ My Blogs
 ---
 <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="150px">
 
-## Connect With Me
-<a href="https://www.linkedin.com/in/jafar-pathan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/zinja-coder/zinja-coder/main/linkedin.svg" height="50"/></a>
-<a href="https://medium.com/@jafarpathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/zinja-coder/zinja-coder/main/medium-icon-svgrepo-com.svg" height="50"/></a>
-<a href="https://discord.com/users/zinjacoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/zinja-coder/zinja-coder/main/discord-v2-svgrepo-com.svg" height="50"/></a>
-<a href="https://twitter.com/zinja_coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/zinja-coder/zinja-coder/main/twitter-svgrepo-com.svg" height="50"/></a>
-<!--<a href="https://app.hackthebox.com/profile/1123401" target="_blank"><img align="center" src="https://raw.githubusercontent.com/zinja-coder/zinja-coder/main/hackthebox.svg" height="50"/></a>
-<a href="https://tryhackme.com/p/Z1njaC0d3r" target="_blank"><img align="center" src=" <img src="https://tryhackme-badges.s3.amazonaws.com/ZinjaCoder.png" height="50"/></a>-->
-<!--<a href="https://www.youtube.com/c/zinjacoder"><img align="center" src="https://raw.githubusercontent.com/zinja-coder/zinja-coder/main/youtube.svg" height="50"/></a>-->
-
+## Connect with Me
+[![Twitter](https://img.shields.io/badge/Twitter-@zinja_coder-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/zinja_coder)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jafar%20pathan-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/jafar-pathan)
+[![Medium](https://img.shields.io/badge/Medium-JafarPathan-black?style=flat&logo=medium)](https://medium.com/@jafarpathan)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-ZinjaCoder-green?style=flat&logo=tryhackme)](https://tryhackme.com/p/ZinjaCoder)
+[![HackTheBox](https://img.shields.io/badge/Hack%20The%20Box-ZinjaCoder)](https://app.hackthebox.com/profile/1123401)
 
