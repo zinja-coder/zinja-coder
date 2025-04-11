@@ -33,9 +33,13 @@ including Network VAPT, Mobile Applications, APIs, Thick Thin Clients,
 Web Applications, and skilled in Malware 🐞 Analysis and  Reverse 
 Engineering.
 -  🔭By hobby I love to research, study and contribute in the field of cyber security.
+- 🏍️ Motorcycle enthusiast who rides his motorcycle for peace of mind.
 - 🇮🇳 Made in India.
-- 👨‍💻 I’m available for collaboration on Tools Development and CTFs.
+- 🤝 I’m available for collaboration on Tools Development and CTFs.
 - 🎯 Stuck in Loop of - 'Hack->Code->Secure->Repeat'
+- 🔑 Here's my PGP key (Just In Case) - https://keys.openpgp.org/vks/v1/by-fingerprint/704CE7C0E6C4F80413F6940FEBF83C765712B2BB
+
+My Message -> Kindly donate to the needy, help others, keep smiling, spread love. Hate can not destroy hate.
 ```
 
 ---
