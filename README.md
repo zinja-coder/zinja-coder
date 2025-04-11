@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00ff00&lines=Who+is+Jafar+Pathan?;A+Computer+Engineering+Student;Proud+to+be+Indian+🇮🇳;A+CyberSecurity+Enthusiast;Cyber+Security+Researcher;CTF+Player;Exploit+Artist;Ethical+Hacking+Related+Content+Creator;Penetrations+Tester;)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=zinja-coder&color=blue)
 
 ---
 <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 70px>
