@@ -62,8 +62,12 @@ Engineering.
 
 ---
 My Blogs
-<!-- BLOG-POST-LIST:START --> 
-
+<!-- BLOG-POST-LIST:START -->
+- [Fuzzing The Un-Fuzzable Using Debugging and Browser Bruter — Part 1](https://medium.com/@jafarpathan/fuzzing-the-un-fuzzable-using-debugging-and-browser-bruter-part-1-e010576d30b5?source=rss-d2820fbdb0f------2)
+- [Painless Guide to Building the Reverse Engineering and Malware Analysis Lab](https://medium.com/@jafarpathan/painless-guide-to-building-the-ultimate-reverse-engineering-and-malware-analysis-lab-d1c8f7b20594?source=rss-d2820fbdb0f------2)
+- [The DVAC — Damn Vulnerable Android Components — The sieve APK reborn — Writeup](https://medium.com/@jafarpathan/the-dvac-damn-vulnerable-android-components-the-sieve-apk-reborn-writeup-e096600ec27d?source=rss-d2820fbdb0f------2)
+- [Solving TryHackMe’s CTF Challenges — TryHackMe Net Sec Challenge Writeup](https://medium.com/@jafarpathan/solving-tryhackmes-ctf-challenges-tryhackme-net-sec-challenge-writeup-b138afa69641?source=rss-d2820fbdb0f------2)
+- [The Curse Of Encryption - Unleashing The Browser Bruter](https://medium.com/@jafarpathan/the-curse-of-encryption-unleashing-the-browser-bruter-aa43384700cf?source=rss-d2820fbdb0f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
