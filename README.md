@@ -71,7 +71,7 @@ My Message -> Kindly donate to the needy, help others, keep smiling, spread love
 
 - **[JADX-AI](https://github.com/zinja-coder/jadx-ai)** - A plugin for JADX to integrate MCP server into JADX called JADX-AI
 - **[JADX-AI-MCP-SERVER](https://github.com/zinja-coder/jadx-mcp-server)** - MCP server for JADX-AI
-- **[BROWSER BRUTER](https://github.com/net-square/browserbruter)** - A First Ever! Browser based web application fuzzing tool
+- **[BROWSER BRUTER](https://github.com/netsquare/BrowserBruter)** - A First Ever! Browser based web application fuzzing tool
 - **[DVAC](https://github.com/zinja-coder/Damn-Vulnerable-Android-Components)** - !Damn Vulnerable Android Components
 
 ---
