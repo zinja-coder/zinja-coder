@@ -51,17 +51,17 @@ Engineering.
   <img src="https://github-profile-trophy.vercel.app/?username=zinja-coder&theme=dracula&margin-w=15&row=1&column=7"/>
 </div>
 
-## 📊 Most Used Languages  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zinja-coder&layout=compact&theme=tokyonight" />
-</div>
-
-# Tryhackme And Hack The Box Stats
+## Try Hack Me Score
 <img src="https://tryhackme-badges.s3.amazonaws.com/ZinjaCoder.png" alt="Your Image Badge"/>
 
+## Hack The Box Score
 ![Hack The Box](http://www.hackthebox.eu/badge/image/1123401)
 
+## PortSwigger Score
+[![PortSwigger Academy](https://img.shields.io/badge/PortSwigger-Security%20Labs-orange?style=flat&logo=burp-suite&logoColor=white)](https://portswigger.net/web-security/profile/JafarPathan)
+
 ---
+
 My Blogs
 <!-- BLOG-POST-LIST:START -->
 - [Fuzzing The Un-Fuzzable Using Debugging and Browser Bruter — Part 1](https://medium.com/@jafarpathan/fuzzing-the-un-fuzzable-using-debugging-and-browser-bruter-part-1-e010576d30b5?source=rss-d2820fbdb0f------2)
