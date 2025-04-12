@@ -34,7 +34,7 @@ Web Applications, and skilled in Malware 🐞 Analysis and  Reverse
 Engineering.
 - 💻 I am a Coder and I love to code, I have developed various tools and projects helping my fellow hackers.
 - 💡Creator of the first ever Browser Based Web Fuzzing tool -> The Browser Bruter
-- 💡Creator of the MCP Server for JADX -> JADX-AI
+- 💡Creator of the MCP Server for JADX -> JADX-AI-MCP
 - 💡Creator of the Damn Vulnerable Android Components -> DVAC
 - 🔭 By hobby I love to research, study and contribute in the field of cyber security.
 - 🏍️ Motorcycle enthusiast who rides his motorcycle for peace of mind.
@@ -73,7 +73,7 @@ My Message -> Kindly donate to the needy, help others, keep smiling, spread love
 
 ## 🛠 My Projects  
 
-- **[JADX-AI](https://github.com/zinja-coder/jadx-ai)** - A plugin for JADX to integrate MCP server into JADX called JADX-AI
+- **[JADX-AI-MCP](https://github.com/zinja-coder/jadx-ai-mcp)** - A plugin for JADX to integrate MCP server into JADX called JADX-AI
 - **[JADX-AI-MCP-SERVER](https://github.com/zinja-coder/jadx-mcp-server)** - MCP server for JADX-AI
 - **[BROWSER BRUTER](https://github.com/netsquare/BrowserBruter)** - A First Ever! Browser based web application fuzzing tool
 - **[DVAC](https://github.com/zinja-coder/Damn-Vulnerable-Android-Components)** - !Damn Vulnerable Android Components
