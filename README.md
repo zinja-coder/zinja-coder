@@ -82,11 +82,11 @@ My Message -> Kindly donate to the needy, help others, keep smiling, spread love
 
 ## My Blogs
 <!-- BLOG-POST-LIST:START -->
+- [How I Developed My First MCP Server And Created JADX-AI-MCP](https://medium.com/@jafarpathan/how-i-developed-my-first-mcp-server-and-created-jadx-ai-81d483bd7edf?source=rss-d2820fbdb0f------2)
 - [Painless Guide to Building the Reverse Engineering and Malware Analysis Lab](https://medium.com/@jafarpathan/painless-guide-to-building-the-ultimate-reverse-engineering-and-malware-analysis-lab-d1c8f7b20594?source=rss-d2820fbdb0f------2)
 - [The DVAC — Damn Vulnerable Android Components — The sieve APK reborn — Writeup](https://medium.com/@jafarpathan/the-dvac-damn-vulnerable-android-components-the-sieve-apk-reborn-writeup-e096600ec27d?source=rss-d2820fbdb0f------2)
 - [Solving TryHackMe’s CTF Challenges — TryHackMe Net Sec Challenge Writeup](https://medium.com/@jafarpathan/solving-tryhackmes-ctf-challenges-tryhackme-net-sec-challenge-writeup-b138afa69641?source=rss-d2820fbdb0f------2)
 - [The Curse Of Encryption - Unleashing The Browser Bruter](https://medium.com/@jafarpathan/the-curse-of-encryption-unleashing-the-browser-bruter-aa43384700cf?source=rss-d2820fbdb0f------2)
-- [How to create Documentation for your next hacking tool using Honkit GitBook! Step by Step Guide](https://medium.com/@jafarpathan/how-to-create-documentation-for-your-next-hacking-tool-using-honkit-gitbook-step-by-step-guide-7e18dd863586?source=rss-d2820fbdb0f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
