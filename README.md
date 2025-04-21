@@ -89,6 +89,7 @@ My Message -> Kindly donate to the needy, help others, keep smiling, spread love
 - [Solving TryHackMe’s CTF Challenges — TryHackMe Net Sec Challenge Writeup](https://medium.com/@jafarpathan/solving-tryhackmes-ctf-challenges-tryhackme-net-sec-challenge-writeup-b138afa69641?source=rss-d2820fbdb0f------2)
 - [The Curse Of Encryption - Unleashing The Browser Bruter](https://medium.com/@jafarpathan/the-curse-of-encryption-unleashing-the-browser-bruter-aa43384700cf?source=rss-d2820fbdb0f------2)
 <!-- BLOG-POST-LIST:END -->
+- [Fuzzing The Un-Fuzzable - The Debug Kraken](https://net-square.com/fuzzing-the-un-fuzzable-using-debugging-and-browser-bruter.html)
 
 ---
 <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="150px">
