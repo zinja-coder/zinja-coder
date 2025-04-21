@@ -33,9 +33,10 @@ including Network VAPT, Mobile Applications, APIs, Thick Thin Clients,
 Web Applications, and skilled in Malware 🐞 Analysis and  Reverse 
 Engineering.
 - 💻 I am a Coder and I love to code, I have developed various tools and projects helping my fellow hackers.
-- 💡Creator of the first ever Browser Based Web Fuzzing tool -> The Browser Bruter
-- 💡Creator of the MCP Server for JADX -> JADX-AI-MCP
-- 💡Creator of the Damn Vulnerable Android Components -> DVAC
+- 💡 Creator of the first ever Browser Based Web Fuzzing tool -> The Browser Bruter
+- 💡 Creator of the MCP Server for APK Tool - apktool-mcp-server
+- 💡 Creator of the MCP Server for JADX -> JADX-AI-MCP
+- 💡 Creator of the Damn Vulnerable Android Components -> DVAC
 - 🔭 By hobby I love to research, study and contribute in the field of cyber security.
 - 🏍️ Motorcycle enthusiast who rides his motorcycle for peace of mind.
 - 🇮🇳 Made in India.
