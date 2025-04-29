@@ -53,6 +53,7 @@ My Message -> Kindly donate to the needy, help others, keep smiling, spread love
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zinja-coder&show_icons=true&theme=tokyonight&count_private=true" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=zinja-coder&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zinja-coder&layout=compact&theme=tokyonight" />
 </div>
 
 ## 🏆 GitHub Trophies  
@@ -72,7 +73,7 @@ My Message -> Kindly donate to the needy, help others, keep smiling, spread love
 
 ---
 
-## 🛠 My Projects  
+## 🛠 My Projects 
 
 - **[JADX-AI-MCP](https://github.com/zinja-coder/jadx-ai-mcp)** - A plugin for JADX to integrate MCP server into JADX called JADX-AI
 - **[JADX-AI-MCP-SERVER](https://github.com/zinja-coder/jadx-mcp-server)** - MCP server for JADX-AI
