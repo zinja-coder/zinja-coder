@@ -36,6 +36,7 @@ Engineering.
 - 💡 Creator of the first ever Browser Based Web Fuzzing tool -> The Browser Bruter
 - 💡 Creator of the MCP Server for APK Tool - apktool-mcp-server
 - 💡 Creator of the MCP Server for JADX -> JADX-AI-MCP
+- 💡 Creator of the burp suite extension for automatically set intruder payload positions -> Auto-Payload-Positioner
 - 💡 Creator of the Damn Vulnerable Android Components -> DVAC
 - 🔭 By hobby I love to research, study and contribute in the field of cyber security.
 - 🏍️ Motorcycle enthusiast who rides his motorcycle for peace of mind.
