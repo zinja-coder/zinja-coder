@@ -36,6 +36,7 @@ Engineering.
 - 💡 Creator of the first ever Browser Based Web Fuzzing tool -> The Browser Bruter
 - 💡 Creator of the MCP Server for APK Tool - apktool-mcp-server
 - 💡 Creator of the MCP Server for JADX -> JADX-AI-MCP
+- 💡 Creator of the MCP Client for Local LLMs -> Zin-MCP-Client
 - 💡 Creator of the burp suite extension for automatically set intruder payload positions -> Auto-Payload-Positioner
 - 💡 Creator of the Damn Vulnerable Android Components -> DVAC
 - 🔭 By hobby I love to research, study and contribute in the field of cyber security.
@@ -76,11 +77,27 @@ My Message -> Kindly donate to the needy, help others, keep smiling, spread love
 
 ## 🛠 My Projects 
 
-- **[JADX-AI-MCP](https://github.com/zinja-coder/jadx-ai-mcp)** - A plugin for JADX to integrate MCP server into JADX called JADX-AI
-- **[JADX-AI-MCP-SERVER](https://github.com/zinja-coder/jadx-mcp-server)** - MCP server for JADX-AI
-- **[APKTool-MCP-SERVER](https://github.com/zinja-coder/apktool-mcp-server)** - MCP Server for APKTool
-- **[BROWSER BRUTER](https://github.com/netsquare/BrowserBruter)** - A First Ever! Browser based web application fuzzing tool
-- **[DVAC](https://github.com/zinja-coder/Damn-Vulnerable-Android-Components)** - !Damn Vulnerable Android Components
+<a href="https://github.com/zinja-coder/jadx-ai-mcp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zinja-coder&repo=jadx-ai-mcp&theme=tokyonight" />
+</a>
+<a href="https://github.com/zinja-coder/apktool-mcp-server">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zinja-coder&repo=apktool-mcp-server&theme=tokyonight" />
+</a>
+<a href="https://github.com/zinja-coder/jadx-mcp-server">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zinja-coder&repo=jadx-mcp-server&theme=tokyonight" />
+</a>
+<a href="https://github.com/zinja-coder/zin-mcp-client">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zinja-coder&repo=zin-mcp-client&theme=tokyonight" />
+</a>
+<a href="https://github.com/netsqaure/BrowserBruter">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=netsquare&repo=BrowserBruter&theme=tokyonight" />
+</a>
+<a href="https://github.com/zinja-coder/Damn-Vulnerable-Android-Components">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zinja-coder&repo=Damn-Vulnerable-Android-Components&theme=tokyonight" />
+</a>
+<a href="https://github.com/netsquare/Auto-Payload-Positioner">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=netsquare&repo=Auto-Payload-Positioner&theme=tokyonight" />
+</a>
 
 ---
 
