@@ -98,7 +98,9 @@ My Message -> Kindly donate to the needy, help others, keep smiling, spread love
 <a href="https://github.com/netsquare/Auto-Payload-Positioner">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=netsquare&repo=Auto-Payload-Positioner&theme=tokyonight" />
 </a>
-
+<a href="https://github.com/zinja-coder/burp-quick-fuzzer-bambda">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zinja-coder&repo=burp-quick-fuzzer-bambda&theme=tokyonight" />
+</a>
 ---
 
 ## My Blogs
