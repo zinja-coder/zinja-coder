@@ -90,7 +90,7 @@ My Message -> Kindly donate to the needy, help others, keep smiling, spread love
 <a href="https://github.com/zinja-coder/zin-mcp-client">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zinja-coder&repo=zin-mcp-client&theme=tokyonight" />
 </a>
-<a href="https://github.com/netsqaure/BrowserBruter">
+<a href="https://github.com/netsquare/BrowserBruter">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=netsquare&repo=BrowserBruter&theme=tokyonight" />
 </a>
 <a href="https://github.com/zinja-coder/Damn-Vulnerable-Android-Components">
