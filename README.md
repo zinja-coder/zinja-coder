@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ---
 <img src="https://raw.githubusercontent.com/zinja-coder/zinja-coder/main/neon-Zinja%20Coder.gif" widht="600px;" height="400px" align="center;"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00ff00&lines=Who+is+Jafar+Pathan?;A+Computer+Engineering+Student;Proud+to+be+Indian+🇮🇳;A+CyberSecurity+Enthusiast;Cyber+Security+Researcher;CTF+Player;Exploit+Artist;Ethical+Hacking+Related+Content+Creator;Penetrations+Tester;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00ff00&lines=Who+is+Jafar+Pathan?;A+Computer+Engineering;Proud+to+be+Indian+🇮🇳;A+CyberSecurity+Enthusiast;Cyber+Security+Researcher;CTF+Player;Exploit+Artist;Ethical+Hacking+Related+Content+Creator;Penetrations+Tester;)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=zinja-coder&color=blue)
 
@@ -27,7 +27,8 @@ Here are some ideas to get you started:
 
 # Hi, I'm [Jafar Pathan]("https://www.jafarpathan.com/") - ZinjaCoder
 ```
-- 🎓 Working Professional in field of Cyber Security, and helping organizations of diverse domains improves their cyber security posture. Completed my bachelor's in Computer Engineering, Achieved CEHv12 Practical certification.
+ اَلْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ
+- 🎓 I am a working Professional in field of Cyber Security, and helping organizations of diverse domains improves their cyber security posture. Completed my bachelor's in Computer Engineering, Achieved CEHv12 Practical certification.
 - 🥷 Having expertise in VAPT of wide range of applications domains 
 including Network VAPT, Mobile Applications, APIs, Thick Thin Clients, 
 Web Applications, and skilled in Malware 🐞 Analysis and  Reverse 
