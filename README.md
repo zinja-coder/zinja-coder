@@ -39,7 +39,6 @@ Engineering.
 - 💡 Creator of the MCP Server for JADX -> JADX-AI-MCP
 - 💡 Creator of the MCP Client for Local LLMs -> Zin-MCP-Client
 - 💡 Creator of the burp suite extension for automatically set intruder payload positions -> Auto-Payload-Positioner
-- 💡 Creator of the burp suite repaeter custom action - 'quick fuzzer' that lets you instantly fuzz parameter insertion points with a basic set of payloads — without needing a to leave repeater tab. -> burp-quick-fuzzer-bambda
 - 💡 Creator of the Damn Vulnerable Android Components -> DVAC
 - 🔭 By hobby I love to research, study and contribute in the field of cyber security.
 - 🏍️ Motorcycle enthusiast who rides his motorcycle for peace of mind.
@@ -88,9 +87,6 @@ My Message -> Kindly donate to the needy, help others, keep smiling, spread love
 <a href="https://github.com/zinja-coder/jadx-mcp-server">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zinja-coder&repo=jadx-mcp-server&theme=tokyonight" />
 </a>
-<a href="https://github.com/zinja-coder/zin-mcp-client">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zinja-coder&repo=zin-mcp-client&theme=tokyonight" />
-</a>
 <a href="https://github.com/netsquare/BrowserBruter">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=netsquare&repo=BrowserBruter&theme=tokyonight" />
 </a>
@@ -99,9 +95,6 @@ My Message -> Kindly donate to the needy, help others, keep smiling, spread love
 </a>
 <a href="https://github.com/netsquare/Auto-Payload-Positioner">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=netsquare&repo=Auto-Payload-Positioner&theme=tokyonight" />
-</a>
-<a href="https://github.com/zinja-coder/burp-quick-fuzzer-bambda">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zinja-coder&repo=burp-quick-fuzzer-bambda&theme=tokyonight" />
 </a>
 ---
 
